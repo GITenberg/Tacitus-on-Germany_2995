@@ -1,0 +1,38 @@
+_repo: Tacitus-on-Germany_2995
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Gordon, Thomas
+    deathdate: 1750
+    gutenberg_agent_id: '2592'
+    url: http://www.gutenberg.org/2009/agents/2592
+creator:
+  author:
+    agent_name: Tacitus, Cornelius
+    aliases:
+    - Tacitus, Publius Cornelius
+    - Tacitus, Caius Cornelius
+    - Tacitus, Gaius Cornelius
+    birthdate: 56
+    deathdate: 117
+    gutenberg_agent_id: '2591'
+    url: http://www.gutenberg.org/2009/agents/2591
+    wikipedia: http://en.wikipedia.org/wiki/Tacitus
+description: ''
+gutenberg_bookshelf:
+- Classical Antiquity
+- Germany
+gutenberg_issued: '2006-04-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2995'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Germanic peoples -- Early works to 1800'
+- !lcc 'PA'
+- GITenberg
+title: Tacitus on Germany
+url: http://www.gutenberg.org/ebooks/2995
